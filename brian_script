@@ -1,0 +1,2 @@
+#!/Users/alvaro/Tools/anaconda/anaconda2/bin/python
+print("The Bright Side " + "of Life...") # + means concatenate for strings
